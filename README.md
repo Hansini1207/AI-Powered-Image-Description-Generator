@@ -106,18 +106,18 @@ The translated summary is converted into a downloadable `.mp3` file using **Goog
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/your-username/snapnarrate.git
-cd snapnarrate
+git clone https://github.com/Hansini1207/AI-Powered-Image-Description-Generator.git
+cd AI-Powered-Image-Description-Generator
 2. 📦 Install Required Packages
 Install all dependencies using the provided requirements.txt file:
 
-bash
+```bash
 Copy
 Edit
 pip install -r requirements.txt
 If you don’t have a requirements.txt, you can create one with the following content:
 
-txt
+```txt
 Copy
 Edit
 Flask
@@ -134,7 +134,7 @@ Get your Google AI Studio API Key from:
 
 Create a .env file in your project root with this content:
 
-env
+```env
 Copy
 Edit
 GOOGLE_API_KEY=your_actual_gemini_api_key_here
@@ -143,20 +143,20 @@ GOOGLE_API_KEY=your_actual_gemini_api_key_here
 4. 📂 Create Uploads Folder
 This folder is used to store uploaded images and the generated audio files:
 
-bash
+```bash
 Copy
 Edit
 mkdir -p static/uploads
 5. ▶️ Run the App
 Start the Flask application:
 
-bash
+```bash
 Copy
 Edit
 python app.py
 Then open your browser and go to:
 
-cpp
+```cpp
 Copy
 Edit
 http://127.0.0.1:5000/
