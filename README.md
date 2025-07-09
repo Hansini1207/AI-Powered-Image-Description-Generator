@@ -165,10 +165,17 @@ You're ready to use the SnapNarrate!
 ## THE PROJECT
 ![Screenshot 2025-05-19 211921](https://github.com/user-attachments/assets/e6f2587c-1bc0-4b9d-a120-40e865e93994)
 
+### Uploading Image
 ![Screenshot 2025-05-19 212531](https://github.com/user-attachments/assets/d715097f-2904-4608-95db-bff4487c3a29)
 
+### Image URL
 ![Screenshot 2025-05-19 213811](https://github.com/user-attachments/assets/4846b513-e662-47d8-b10c-3da75de99828)
 
+### WebCam Image Input
 ![Screenshot 2025-05-19 214855](https://github.com/user-attachments/assets/0fa9345c-7a42-4d65-ba46-9f6cb41fa260)
+
+
+![image](https://github.com/user-attachments/assets/cdb022d0-d0ca-4735-9a92-f5970e6e821e)
+
 
 
